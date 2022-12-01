@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\Player\</OutputPath>
-    <DefineConstants>UNITY_2021_3_12;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;USE_SEARCH_TABLE;USE_SEARCH_MODULE;USE_PROPERTY_DATABASE;USE_SEARCH_EXTENSION_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2021_3_12;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;USE_SEARCH_TABLE;USE_SEARCH_MODULE;USE_PROPERTY_DATABASE;USE_SEARCH_EXTENSION_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -57,6 +57,72 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\XRPlatformControllerSetup.cs" />
+    <Compile Include="Assets\06_Scripts\067_Field\AutoDestroy.cs" />
+    <Compile Include="Assets\06_Scripts\065_System\PoolableObject.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\HomingBulletHit.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\State\Boss1\StateRightPunch.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\State\Boss1\StateLeftPunch.cs" />
+    <Compile Include="Assets\06_Scripts\065_System\Hoge.cs" />
+    <Compile Include="Assets\06_Scripts\064_UI\FogDistance.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\State\Boss1\StateFistBump.cs" />
+    <Compile Include="Assets\06_Scripts\064_UI\YW_Ploglam\EnemyHPManager.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\State\StateAttack.cs" />
+    <Compile Include="Assets\06_Scripts\064_UI\FogGenerator.cs" />
+    <Compile Include="Assets\06_Scripts\067_Field\ScrollTestManager.cs" />
+    <Compile Include="Assets\06_Scripts\065_System\Pool.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\State\StateRunway.cs" />
+    <Compile Include="Assets\06_Scripts\061_Player\InputManager.cs" />
+    <Compile Include="Assets\06_Scripts\065_System\SEManager.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\State\StateLeave.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\Enemy.cs" />
+    <Compile Include="Assets\06_Scripts\061_Player\IK_TranceformModel.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\TestPlayerMove.cs" />
+    <Compile Include="Assets\06_Scripts\061_Player\StickMover.cs" />
+    <Compile Include="Assets\06_Scripts\064_UI\RecoveryUI.cs" />
+    <Compile Include="Assets\06_Scripts\067_Field\Field.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\CallEvent.cs" />
+    <Compile Include="Assets\06_Scripts\064_UI\Transition02.cs" />
+    <Compile Include="Assets\06_Scripts\066_Weapon\SwordWeapon.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\weakness.cs" />
+    <Compile Include="Assets\06_Scripts\061_Player\MasterPlayer.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\TargetBulletHit.cs" />
+    <Compile Include="Assets\06_Scripts\061_Player\VRAnimatorController.cs" />
+    <Compile Include="Assets\06_Scripts\061_Player\PlayerParameter.cs" />
+    <Compile Include="Assets\06_Scripts\061_Player\VRRig.cs" />
+    <Compile Include="Assets\06_Scripts\065_System\MusicPlayer\SoundManager.cs" />
+    <Compile Include="Assets\06_Scripts\061_Player\PlayerData.cs" />
+    <Compile Include="Assets\06_Scripts\064_UI\YW_Ploglam\Cutter.cs" />
+    <Compile Include="Assets\06_Scripts\064_UI\YW_Ploglam\MeshCut.cs" />
+    <Compile Include="Assets\06_Scripts\061_Player\IInputable.cs" />
+    <Compile Include="Assets\06_Scripts\064_UI\YW_Ploglam\HPberCameraUI\FollowHUD.cs" />
+    <Compile Include="Assets\06_Scripts\061_Player\HoverMover.cs" />
+    <Compile Include="Assets\06_Scripts\064_UI\YW_Ploglam\Attack.cs" />
+    <Compile Include="Assets\06_Scripts\065_System\IDamageble.cs" />
+    <Compile Include="Assets\06_Scripts\065_System\MusicPlayer\TestBGM.cs" />
+    <Compile Include="Assets\06_Scripts\064_UI\DamageUI.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\TestEnemyMove.cs" />
+    <Compile Include="Assets\06_Scripts\061_Player\VRFootIK.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\TargetBulletGenerate.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\State\StateStay.cs" />
+    <Compile Include="Assets\06_Scripts\064_UI\Transition.cs" />
+    <Compile Include="Assets\06_Scripts\067_Field\FieldMove.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\State\StateChangemode.cs" />
+    <Compile Include="Assets\06_Scripts\065_System\GameStart.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\Debug\move.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\EnemyCommon.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\HomingBulletGenerate.cs" />
+    <Compile Include="Assets\06_Scripts\061_Player\MoveAnchor.cs" />
+    <Compile Include="Assets\06_Scripts\064_UI\YW_Ploglam\PlayerHP.cs" />
+    <Compile Include="Assets\06_Scripts\064_UI\YW_Ploglam\RotateDamageUI.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\BulletHit.cs" />
+    <Compile Include="Assets\06_Scripts\065_System\GameManager.cs" />
+    <Compile Include="Assets\06_Scripts\065_System\MusicPlayer\MusicPlayer.cs" />
+    <Compile Include="Assets\06_Scripts\067_Field\ObjectTransformar.cs" />
+    <Compile Include="Assets\06_Scripts\065_System\GameExit.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\State\StateStan.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\StateBase.cs" />
+    <Compile Include="Assets\06_Scripts\062_Enemy\BulletGenerate.cs" />
+    <Compile Include="Assets\06_Scripts\065_System\ButtonManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -709,6 +775,18 @@
     <ProjectReference Include="Unity.VisualScripting.State.Player.csproj">
       <Project>{458212C4-5E8B-B946-0AAC-84091B8EB038}</Project>
       <Name>Unity.VisualScripting.State.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Postprocessing.Runtime.Player.csproj">
+      <Project>{2D3C7531-017D-2AFE-6E5E-A27D26F7DD40}</Project>
+      <Name>Unity.Postprocessing.Runtime.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.CoreUtils.Player.csproj">
+      <Project>{67C25FCA-959F-FF33-08D7-7061B0AA4EB5}</Project>
+      <Name>Unity.XR.CoreUtils.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Player.csproj">
+      <Project>{B7EFD1BC-72EB-D96D-0515-B70697E34539}</Project>
+      <Name>Unity.XR.Interaction.Toolkit.Player</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
